@@ -9,3 +9,5 @@ Use Redis for Basket Service
 Use Grpc in Discount Service for intract with Basket Service
 
 Use Postgres Db for Discount Service and MongoDb for Catalog Service also Use Sql Server for Ordering Service
+
+Use Docker for Containeraize Services
