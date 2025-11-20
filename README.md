@@ -12,22 +12,20 @@ All services run inside **Docker containers**.
 
 ## Services
 
--   **API Gateway**: Ocelot
--   **Catalog Service**: MongoDB
--   **Discount Service**: Postgres + gRPC Server
--   **Basket Service**: Redis + gRPC Client
--   **Ordering Service**: SQL Server
--   **Event Bus**: RabbitMQ + MassTransit
+-   **Catalog Service**
+-   **Discount Service**
+-   **Basket Service**
+-   **Ordering Service**
 
 ## Technologies
 
--   ASP.NET Core Microservices
+-   ASP.NET Core
 -   Ocelot API Gateway
 -   RabbitMQ / MassTransit
 -   Redis
 -   gRPC
--   Docker / Docker Compose
--   Postgres, MongoDB, SQL Serve
+-   Docker
+-   Postgres, MongoDB, SQL Server, Redis
 
 ## Run with Docker
 
