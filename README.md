@@ -2,7 +2,7 @@
 
 ## Overview
 
-A lightweight microservices-based e‑commerce system built with **ASP.NET
+A lightweight microservices based e‑commerce system built with **ASP.NET
 Core**.\
 It uses **Ocelot** as API Gateway, **RabbitMQ + MassTransit** for
 messaging, **Redis** for the Basket service, **gRPC** for communication
